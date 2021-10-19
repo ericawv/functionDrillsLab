@@ -189,9 +189,8 @@ let loser = 'Glimmer'
 */
 
 //CODE HERE
-function theEliminator (
-  for(i = 0; i > )
-)
+
+
 
 
 
@@ -203,6 +202,9 @@ let sampleString = "Hi, my name is Kylo."
 */
 
 //CODE HERE
+
+
+
 
 
 ////////////////// PROBLEM 12 ////////////////////
